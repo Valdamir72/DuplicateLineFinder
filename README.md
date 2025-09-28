@@ -1,11 +1,10 @@
 # DuplicateLineFinder
-# Duplicate and Comment Finder
-
+---
 Утилита для анализа и очистки текстовых и структурированных (XML) файлов.
 
 ---
 
-## Описание (на русском)
+## Описание
 
 ### Цель создания
 
@@ -54,7 +53,7 @@
 
 ---
 
-## Description (in English)
+## Description
 
 ### Purpose
 
